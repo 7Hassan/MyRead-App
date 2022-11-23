@@ -13,7 +13,6 @@ To get started developing right away:
 
 ```bash
 ├── Responsive designe.
-├── Responsive design.
 ├── Flexible application in dealing with data.
 ├── Speed ​​and effectiveness in performance.
 ```
